@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.6-release.apk",
-  "notes": "修饮食顶部重叠：星期条+二级导航包进同一个悬浮容器。"
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.7-release.apk",
+  "notes": "修餐次切换器：整条栏加边框、按钮按星期条写法重做，文字正常显示。"
 }
