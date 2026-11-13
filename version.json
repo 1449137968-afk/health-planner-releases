@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.3-release.apk",
-  "notes": "食物弹窗+热量计算器：72种食物特点做法+卡通图；顶部导航遮罩；餐盘可删除；套用推荐移至餐盘页。"
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.4-release.apk",
+  "notes": "账号底座：登录/注册+按账号隔离数据+本地同步适配器+老数据迁移；食物弹窗+热量计算器。"
 }
