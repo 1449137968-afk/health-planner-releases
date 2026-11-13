@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.2-release.apk",
+  "notes": "新增：打开 App 时自动检查更新，有新版会提示下载安装。"
+}
