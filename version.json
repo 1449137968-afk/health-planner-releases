@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.5-release.apk",
-  "notes": "饮食改版：顶部悬浮导航、仪表盘卡片化、食物库下拉框、卡片份数步进+长按移除。"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.6-release.apk",
+  "notes": "修饮食顶部重叠：星期条+二级导航包进同一个悬浮容器。"
 }
