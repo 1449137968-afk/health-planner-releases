@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.8-release.apk",
-  "notes": "饮食重构（我的食材、食品库二级菜单）+ 厨具功能。"
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://raw.githubusercontent.com/1449137968-afk/health-planner-releases/main/health-planner-1.0.9-release.apk",
+  "notes": "健身计划写清楚（力量A/B组数次数+跑步配速）。"
 }
